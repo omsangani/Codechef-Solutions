@@ -13,5 +13,6 @@ int main()
     int a,b;
     scanf("%d",&a);
     scanf("%d",&b);
+    printf("Hello World");
     power_of_num(a,b);
 }
