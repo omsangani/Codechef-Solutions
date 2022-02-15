@@ -8,7 +8,7 @@ int power_of_num(int a,int b)
     }
     printf("%d",power);
 }
-int main() 
+int main()
 {
     int a,b;
     scanf("%d",&a);
